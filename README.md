@@ -1,3 +1,4 @@
+🔗 [Live Dashboard](https://systematic-pnl-tracker.streamlit.app)
 # Systematic PnL Tracker
 
 End-to-end systematic trading infrastructure combining Python and SQL — from signal generation to persistent trade storage to performance analytics.

@@ -1,0 +1,5 @@
+data/pnl_tracker.db
+src/__pycache__/
+__pycache__/
+.DS_Store
+*.pyc
